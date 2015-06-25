@@ -1,0 +1,18 @@
+"slenderman"
+{
+	"base"		"base"
+	"title"		"Slenderman"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"sl_test"
+			"text"		"Test"
+			"help"		"Testing for help"
+			"type"		"numeric"
+			"default"		"1"
+		}
+	}
+}
